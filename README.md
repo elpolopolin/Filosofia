@@ -1,4 +1,5 @@
 # Filosofia
+15/6
 Rene descartes
 
 -francia siglo xvii
