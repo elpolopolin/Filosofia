@@ -11,4 +11,6 @@ Rene descartes
 ."descubrimiento" de america
 
 -PREGUNTA: ¿como estar seguros de que un conocimiento es verdadero?
-Duda de todo aquello que sabe.
+              (Duda de todo aquello que sabe)
+
+
